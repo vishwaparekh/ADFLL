@@ -1,0 +1,8 @@
+ERB_id,/raid/home/thomaszheng/Distributed_System/Agent4/Used_ERB/Experience_Replay_Buffer_Agent4_1.obj
+Modality,coronal
+Landmark,Right_Top_Ventricle
+Pathology,LGG
+Agents_with_this_ERB,[1, 2, 3, 4]
+time_started,2022-07-08 18:22:50.993915
+/raid/home/thomaszheng/Distributed_System/Agent4/Used_ERB/Experience_Replay_Buffer_Agent4_2.obj,sagittal,Right_Top_Ventricle,LGG,"[1, 2, 3, 4]",2022-07-08 21:19:08.673994
+/raid/home/thomaszheng/Distributed_System/Agent4/Used_ERB/Experience_Replay_Buffer_Agent4_3.obj,t1ce,Right_Top_Ventricle,HGG,"[1, 2, 3, 4]",2022-07-09 01:15:21.149279

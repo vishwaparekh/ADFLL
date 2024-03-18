@@ -1,0 +1,8 @@
+/raid/home/thomaszheng/Distributed_System/train_sets/Coronal_LGG_t2/Brats17_2013_1_1_t2_coronal.nii.gz
+/raid/home/thomaszheng/Distributed_System/train_sets/Coronal_LGG_t2/Brats17_TCIA_202_1_t2_coronal.nii.gz
+/raid/home/thomaszheng/Distributed_System/train_sets/Coronal_LGG_t2/Brats17_2013_28_1_t2_coronal.nii.gz
+/raid/home/thomaszheng/Distributed_System/train_sets/Coronal_LGG_t2/Brats17_TCIA_175_1_t2_coronal.nii.gz
+/raid/home/thomaszheng/Distributed_System/train_sets/Coronal_LGG_t2/Brats17_2013_8_1_t2_coronal.nii.gz
+/raid/home/thomaszheng/Distributed_System/train_sets/Coronal_LGG_t2/Brats17_TCIA_351_1_t2_coronal.nii.gz
+/raid/home/thomaszheng/Distributed_System/train_sets/Coronal_LGG_t2/Brats17_TCIA_152_1_t2_coronal.nii.gz
+/raid/home/thomaszheng/Distributed_System/train_sets/Coronal_LGG_t2/Brats17_2013_29_1_t2_coronal.nii.gz

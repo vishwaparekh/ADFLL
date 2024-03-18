@@ -1,0 +1,12 @@
+/raid/home/thomaszheng/Distributed_System/train_sets/Axial_HGG_t1ce/Brats17_2013_26_1.txt
+/raid/home/thomaszheng/Distributed_System/train_sets/Axial_HGG_t1ce/Brats17_CBICA_AQN_1.txt
+/raid/home/thomaszheng/Distributed_System/train_sets/Axial_HGG_t1ce/Brats17_CBICA_AQZ_1.txt
+/raid/home/thomaszheng/Distributed_System/train_sets/Axial_HGG_t1ce/Brats17_CBICA_AQO_1.txt
+/raid/home/thomaszheng/Distributed_System/train_sets/Axial_HGG_t1ce/Brats17_CBICA_AAL_1.txt
+/raid/home/thomaszheng/Distributed_System/train_sets/Axial_HGG_t1ce/Brats17_2013_10_1.txt
+/raid/home/thomaszheng/Distributed_System/train_sets/Axial_HGG_t1ce/Brats17_CBICA_AMH_1.txt
+/raid/home/thomaszheng/Distributed_System/train_sets/Axial_HGG_t1ce/Brats17_CBICA_AOH_1.txt
+/raid/home/thomaszheng/Distributed_System/train_sets/Axial_HGG_t1ce/Brats17_2013_4_1.txt
+/raid/home/thomaszheng/Distributed_System/train_sets/Axial_HGG_t1ce/Brats17_CBICA_ANG_1.txt
+/raid/home/thomaszheng/Distributed_System/train_sets/Axial_HGG_t1ce/Brats17_CBICA_AOP_1.txt
+/raid/home/thomaszheng/Distributed_System/train_sets/Axial_HGG_t1ce/Brats17_CBICA_AAB_1.txt
