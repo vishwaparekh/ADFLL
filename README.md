@@ -1,4 +1,4 @@
-## MARINE
+## Asynchronous Decentralized Federated Lifelong Learning
 
 Artificial Intelligence (AI) techniques are increasingly being used in radiological applications. 
 However, an increase in the number of applications where AI could be applied to radiology makes the maintenance 
@@ -10,8 +10,7 @@ a whole-body MRI, PET, or CT scan would share architectural (anatomical) similar
 for localizing neighboring organs such as pancreas or spleen. As a result, AI applications being built for newer 
 tasks could significantly benefit from previously built AI architectures for similar or related tasks. The benefits
 that could be observed in terms of reduced required computational power and time required to successfully train AI 
-models for newer tasks. To that end, we are building the Medical image Analysis Reasoning with Interactive NEtworks 
-(MARINE) to bring ShELL capabilities to medicine, in particular, radiology.
+models for newer tasks. To that end, we are building the Asynchronous Decentralized Federated Lifelong Learning (ADFLL) framework to bring ShELL capabilities to medicine, in particular, radiology.
 
 ---
 ## Concept
@@ -105,3 +104,5 @@ available in the README located at `quick_runs/README.md`.
 [1] Athanasios Vlontzos, Amir Alansary, Konstantinos Kamnitsas, Daniel Rueckert, and Bern-hard Kainz.  Multiple landmark detection using multi-agent reinforcement learning.  InInternational Conference on Medical Image Computing and Computer-Assisted Interven-tion, pages 262–270. Springer, 2019
 
 [2] Parekh VS, E. BA, Braverman V, Jacobs MA: Multitask radiological modality invariant landmark localization using deep reinforcement learning. In: Proceedings of the Third Conference on Medical Imaging with Deep Learning. vol. 121. Proceedings of Machine Learning Research: PMLR; 2020: 588--600.
+
+[3] Zheng G, Zhou S, Braverman V, Jacobs MA, Parekh VS. Selective experience replay compression using coresets for lifelong deep reinforcement learning in medical imaging. InMedical Imaging with Deep Learning 2024 Jan 23 (pp. 1751-1764). PMLR.
